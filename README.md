@@ -1,10 +1,10 @@
-# NEPA Text Classification Project
+# NEPA Timelines Analysis Project 
 
-This repository contains the Jupyter notebook and associated code for the NEPA text classification project, commissioned by the Union of Concerned Scientists. The project aims to analyze Environmental Impact Statements (EISes) to identify and quantify the impact of various exogenous variables on timelines for federal projects undergoing NEPA (National Environmental Policy Act) review.
+As the Project Manager of a [BEACN](https://www.beacn.org) project commissioned by the Union of Concerned Scientists, I led a team of five associate consultants to conduct a comprehensive analysis of NEPA timelines. The project aims to analyze Environmental Impact Statements (EISes) to identify and quantify the impact of various exogenous variables on timelines for federal projects undergoing NEPA (National Environmental Policy Act) review. 
 
-## Project Overview
+In this project, I developed an advanced text classification model to detect so-called exogenous variables (i.e., NEPA-provisioned litigation, mid-project financing issues, third-party construction delays, compliance with the Clean Air Act required, etc.) in lengthy reports formally known as Environmental Impact Statements (EISes) for projects that require federal NEPA review. Our team then used the presence or absence (1 or 0) of each of the exogenous variables in a sample of 300 projects to determine the variables' impact on project durations using regression analysis.
 
-As the Project Manager of a [BEACN](https://www.beacn.org) project commissioned by the Union of Concerned Scientists, I led a team of five associate consultants to conduct a comprehensive analysis of NEPA timelines. In this project, I developed an advanced text classification model to detect so-called exogenous variables (i.e., NEPA-provisioned litigation, mid-project financing issues, third-party construction delays, compliance with the Clean Air Act required, etc.) in lengthy reports formally known as Environmental Impact Statements (EISes) for projects that require federal NEPA review. Our team then used the presence or absence (1 or 0) of each of the exogenous variables in a sample of 300 projects to determine the variables' impact on project durations using regression analysis.
+This repository contains a Jupyter notebook and the associated Python code used to develop the text classification model for NEPA timelines described above.
 
 ## Technologies Used
 
