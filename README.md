@@ -19,7 +19,7 @@ As a part of a [BEACN](https://www.beacn.org) project commissioned by the Union 
 - **Text Vectorization**: Employs Langchain for efficient text vectorization.
 - **Vector Search**: Uses Pinecone for fast and accurate vector search.
 - **GPT-4 Integration**: Leverages the OpenAI API (GPT-4 and text-embedding-3-large) to automatically determine the presence of exogenous variables in environmental impact statements.
-- **Automated Data Entry**: Adds binary indicator variables (1 or 0) representing the presence of an exogenous variable.
+- **Automated Data Entry**: Adds binary indicator variables (1 or 0) representing the presence of an exogenous variable to desired destination spreadsheet.
 
 ## License
 
