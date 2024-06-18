@@ -35,6 +35,6 @@ For any questions or inquiries, please contact [Rohin Juneja](mailto:rohin.junej
 
 ## Acknowledgements
 
-We extend our gratitude to the Union of Concerned Scientists for commissioning this project and providing the necessary support.
+I extend my gratitude and sincere thanks to the Union of Concerned Scientists for commissioning this project and providing the necessary support. In particular, I would like to thank David Watkins, Mark Foley, and Pallavi Shrestha for making this project possible.
 
 
