@@ -25,10 +25,6 @@ This repository contains a Jupyter notebook and the associated Python code used 
 
 To validate the accuracy of our text classification model, we conducted a manual classification of exogenous variables on a ssubample of 23 randomly selected projects. The model's classifications were compared against these manual classifications. Our model demonstrated a high level of accuracy, with 20 out of 23 projects showing identical classifications, resulting in an accuracy rate of approximately 87%. Considering the budgetary constraints and the cost-efficiency of the model (approximately $0.40 per project), we are highly satisfied with these results.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or inquiries, please contact [Rohin Juneja](mailto:rohin.juneja@example.com).
