@@ -33,4 +33,6 @@ For any questions or inquiries, please contact [Rohin Juneja](mailto:rohin.junej
 
 I extend my gratitude and sincere thanks to the Union of Concerned Scientists for commissioning this project and providing the necessary support. In particular, I would like to thank David Watkins, Mark Foley, and Pallavi Shrestha for making this project possible.
 
+I would also like to thank my co-Project Manager, Diya Kandhra, for her exceptional leadership and support throughout this project.
+
 
