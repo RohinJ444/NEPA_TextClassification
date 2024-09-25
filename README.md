@@ -13,7 +13,7 @@ This repository contains a Jupyter notebook and the associated Python code used 
 - **Pinecone**: For server-side storage and vector search.
 - **OpenAI API (GPT-4)**: For automated detection of exogenous variables.
 
-## Key Features
+## Notebook Components
 
 - **Text Extraction**: Utilizes OCR to extract text from PDF documents.
 - **Text Vectorization**: Employs Langchain for efficient text vectorization.
